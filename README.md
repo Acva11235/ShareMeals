@@ -29,6 +29,8 @@ ShareMeals is a revolutionary platform that simplifies the process of food donat
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the Flask application using `python project.py`.
 4. Access the application at `http://localhost:5000`.
+5. Go to: `/home` to view the landing page for donors
+6. (Database will be available soon)
 
 ### 📝 Author
 Achintya Varshneya
