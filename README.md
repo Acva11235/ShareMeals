@@ -22,8 +22,7 @@ ShareMeals is a revolutionary platform that simplifies the process of food donat
 - SQL (Database)
 
 ### 🖼️ Screenshots:
-![Screenshot 1](static/landing_ss.png)
-![Screenshot 2](static/login_ss.png)
+![Landing page screenshot](static/landing_ss.png)
 
 ### 💻 Installation:
 1. Clone this repository to your local machine.
